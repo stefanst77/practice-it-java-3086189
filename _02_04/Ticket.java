@@ -37,5 +37,4 @@ public class Ticket {
   public boolean getIsReturn() {
     return this.isReturn;
   }
-
 }
